@@ -1,7 +1,5 @@
-👋 Hey! I am a software engineer at [SumUp](https://sumup.com/). I work on Identity & Access Management, observability, and public APIs.
-We have a team full of wonderful and talented people, so if you are looking for a job or want to chat about any random topic, reach out to me at matous.dzivjak @ sumup.com.
+👋 Hey! I am a Staff Engineer at [SumUp](https://sumup.com/). I work on Identity & Access Management, our public APIs and SDKs, and Engineering Standards and Practices.
 
-I write in [Go](https://go.dev/) and [Rust](https://www.rust-lang.org/).
-I use [Helix](https://github.com/helix-editor/helix) as my driver and also contribute to the development when I find some time.
+At work I write [Go](https://go.dev/), [TypeScript](https://www.typescriptlang.org/), and in lesser capacity any other language that's needed to get the job done (apart from Java, I don't like Java). For personal projects, I use mostly [Rust](https://www.rust-lang.org/).
 
 There's more at [my personal website](https://dzx.cz/).
